@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shafin\\Audit Firm Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|d:\\shafin\\audit firm management system\\ceo_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:ceo_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\auditor_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:auditor_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:loginpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\manager_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:manager_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\ceo_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:ceo_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\manager_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:manager_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\auditor_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:auditor_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|D:\\Shafin\\Audit Firm Management System\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LoginPage||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager_Dashboard.cs",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\Manager_Dashboard.cs",
+              "RelativeDocumentMoniker": "Manager_Dashboard.cs",
+              "ToolTip": "D:\\Shafin\\Audit Firm Management System\\Manager_Dashboard.cs",
+              "RelativeToolTip": "Manager_Dashboard.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAowHYEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:56:44.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CEO_Dashboard.cs",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\CEO_Dashboard.cs",
+              "RelativeDocumentMoniker": "CEO_Dashboard.cs",
+              "ToolTip": "D:\\Shafin\\Audit Firm Management System\\CEO_Dashboard.cs",
+              "RelativeToolTip": "CEO_Dashboard.cs",
+              "ViewState": "AgIAANcCAAAASGZmZmYowEIEAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:05:05.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "D:\\Shafin\\Audit Firm Management System\\LoginPage.cs",
+              "RelativeToolTip": "LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:04:07.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "D:\\Shafin\\LoginPage - Copy\\LoginPage.cs [Design]",
+              "RelativeToolTip": "..\\LoginPage - Copy\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:03:42.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auditor_Dashboard.cs",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\Auditor_Dashboard.cs",
+              "RelativeDocumentMoniker": "Auditor_Dashboard.cs",
+              "ToolTip": "D:\\Shafin\\Audit Firm Management System\\Auditor_Dashboard.cs",
+              "RelativeToolTip": "Auditor_Dashboard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:45:32.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CEO_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\CEO_Dashboard.cs",
+              "RelativeDocumentMoniker": "CEO_Dashboard.cs",
+              "ToolTip": "D:\\Shafin\\Audit Firm Management System\\CEO_Dashboard.cs [Design]",
+              "RelativeToolTip": "CEO_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:04:45.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.Designer.cs",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\LoginPage.Designer.cs",
+              "RelativeDocumentMoniker": "LoginPage.Designer.cs",
+              "ToolTip": "D:\\Shafin\\Audit Firm Management System\\LoginPage.Designer.cs",
+              "RelativeToolTip": "LoginPage.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:43:28.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\Manager_Dashboard.cs",
+              "RelativeDocumentMoniker": "Manager_Dashboard.cs",
+              "ToolTip": "D:\\Shafin\\LoginPage - Copy\\Manager_Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\LoginPage - Copy\\Manager_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:50:35.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auditor_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\Auditor_Dashboard.cs",
+              "RelativeDocumentMoniker": "Auditor_Dashboard.cs",
+              "ToolTip": "D:\\Shafin\\LoginPage - Copy\\Auditor_Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\LoginPage - Copy\\Auditor_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:01:32.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess.cs",
+              "ToolTip": "D:\\Shafin\\Audit Firm Management System\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:22:44.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage",
+              "DocumentMoniker": "D:\\Shafin\\Audit Firm Management System\\LoginPage.csproj",
+              "RelativeDocumentMoniker": "LoginPage.csproj",
+              "ToolTip": "D:\\Shafin\\Audit Firm Management System\\LoginPage.csproj",
+              "RelativeToolTip": "LoginPage.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-16T06:36:23.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
